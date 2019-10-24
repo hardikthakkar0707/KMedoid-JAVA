@@ -1,13 +1,13 @@
 # KMedoid-JAVA
-Source Code for KMedoid Algorithm in JAVA    
+<i>Source Code for KMedoid Algorithm in JAVA    
 This is a basic implementation of KMedoid Algorithm having cluster size = 2   
-
+</i>
 # Run Code
 
 $ javac KMedoid.java  
 $ java KMedoid  
 
-Sample Inputs:    
+<b>Sample Inputs:</b>    
   
 No. of Clusters = 2  
 Enter Number of data: 10    
@@ -23,7 +23,7 @@ Enter X and Y values of data
 8 5   
 7 6   
    
-Output:     
+<b>Output:</b>     
 The Total Minimum Cost is: 24    
 Element 1 Cluster: 1   
 Element 2 Cluster: 1    
