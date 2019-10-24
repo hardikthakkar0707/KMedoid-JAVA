@@ -42,7 +42,7 @@ class KMedoid{
   public static void main(String[] args) {
     Scanner sc =new Scanner(System.in);
     Random rand = new Random();
-    Main main = new Main();
+    KMedoid main = new KMedoid();
     int x[],y[],i,n,k=2,c1,c2;
     System.out.print("No. of Clusters = 2 \nEnter Number of data: ");
     n = sc.nextInt();
